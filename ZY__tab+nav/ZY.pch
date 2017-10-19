@@ -1,0 +1,17 @@
+//
+//  ZY.pch
+//  ZY__tab+nav
+//
+//  Created by zy on 2017/10/16.
+//  Copyright © 2017年 zhangyang. All rights reserved.
+//
+
+#ifndef ZY_pch
+#define ZY_pch
+#define SCREENW [UIScreen mainScreen].bounds.size.width
+#define SCREENH [UIScreen mainScreen].bounds.size.height
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <Masonry.h>
+#import "JPNavigationControllerKit.h"
+#endif /* ZY_pch */
